@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9db62d8a9f2883a18b3b650b36981ef7",
+    "revision": "eb86edd1d34baaf8ed4a961aa23a6d5e",
     "url": "/index.html"
   },
   {
-    "revision": "060441056efbf72e5af7",
+    "revision": "dc6b1202e6fc2afbbfee",
     "url": "/static/css/3.cffc9e54.chunk.css"
   },
   {
-    "revision": "487b506321f6fe134059",
+    "revision": "783b325d75dca23caacb",
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "844e622267933d0a2d6b",
-    "url": "/static/css/main.dcfae83f.chunk.css"
+    "revision": "e24cf02d2d60db3a60ac",
+    "url": "/static/css/main.9686c36a.chunk.css"
   },
   {
-    "revision": "b6cedd7c3b0e66223e13",
-    "url": "/static/js/2.2a7dd74c.chunk.js"
+    "revision": "0186542d911302b29763",
+    "url": "/static/js/2.8b5dcc9f.chunk.js"
   },
   {
-    "revision": "060441056efbf72e5af7",
-    "url": "/static/js/3.ed98ab1a.chunk.js"
+    "revision": "dc6b1202e6fc2afbbfee",
+    "url": "/static/js/3.b0038f27.chunk.js"
   },
   {
-    "revision": "487b506321f6fe134059",
-    "url": "/static/js/4.dc59c1ef.chunk.js"
+    "revision": "783b325d75dca23caacb",
+    "url": "/static/js/4.17c90ea1.chunk.js"
   },
   {
-    "revision": "844e622267933d0a2d6b",
-    "url": "/static/js/main.e78567cf.chunk.js"
+    "revision": "e24cf02d2d60db3a60ac",
+    "url": "/static/js/main.241ab6e1.chunk.js"
   },
   {
-    "revision": "8f8d24fd173b4371e780",
-    "url": "/static/js/runtime-main.7c939c5d.js"
+    "revision": "20a2be3a14c7b5fe86ee",
+    "url": "/static/js/runtime-main.6fef60b5.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -82,9 +82,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
-    "url": "/static/media/talksCardBack.0288c5ec.svg"
   }
 ]);
