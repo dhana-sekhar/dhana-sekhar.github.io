@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcfae83f.chunk.css",
+    "main.js": "/static/js/main.e78567cf.chunk.js",
+    "main.js.map": "/static/js/main.e78567cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c939c5d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c939c5d.js.map",
+    "static/js/2.2a7dd74c.chunk.js": "/static/js/2.2a7dd74c.chunk.js",
+    "static/js/2.2a7dd74c.chunk.js.map": "/static/js/2.2a7dd74c.chunk.js.map",
+    "static/css/3.cffc9e54.chunk.css": "/static/css/3.cffc9e54.chunk.css",
+    "static/js/3.ed98ab1a.chunk.js": "/static/js/3.ed98ab1a.chunk.js",
+    "static/js/3.ed98ab1a.chunk.js.map": "/static/js/3.ed98ab1a.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
+    "static/js/4.dc59c1ef.chunk.js": "/static/js/4.dc59c1ef.chunk.js",
+    "static/js/4.dc59c1ef.chunk.js.map": "/static/js/4.dc59c1ef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d4ef06148d01856deaceec4bd98e5611.js": "/precache-manifest.d4ef06148d01856deaceec4bd98e5611.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.cffc9e54.chunk.css.map": "/static/css/3.cffc9e54.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.dcfae83f.chunk.css.map": "/static/css/main.dcfae83f.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/aws_logo.svg": "/static/media/aws_logo.0a4e5998.svg",
+    "static/media/bcgt_logo.png": "/static/media/bcgt_logo.823b4c34.png",
+    "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/ibm_logo.svg": "/static/media/ibm_logo.f46d8880.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/machine_learning.jpg": "/static/media/machine_learning.19ab3f0a.jpg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/miracle.jpeg": "/static/media/miracle.8ce4bfe1.jpeg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c939c5d.js",
+    "static/js/2.2a7dd74c.chunk.js",
+    "static/css/main.dcfae83f.chunk.css",
+    "static/js/main.e78567cf.chunk.js"
+  ]
+}
